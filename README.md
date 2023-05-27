@@ -1,5 +1,5 @@
 # The Python Route
-
+![the_python_route](https://github.com/tpauldike/rough_work/blob/main/designs/TPR-GitHub.jpg)
 **The Python Route** is a daily [**CodeTrybe**](https://github.com/codetrybe) Peer Learning Series,
 led by [Topman Paul-Dike](https://github.com/tpauldike), where peers learned `python` from the scratch and progressed from simple to complex concepts.
 
