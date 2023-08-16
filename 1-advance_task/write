@@ -1,0 +1,2 @@
+echo This is the first line from the bash script >> test_file
+echo And this is the second line from the same script >> test_file
